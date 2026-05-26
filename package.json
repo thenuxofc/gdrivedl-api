@@ -1,0 +1,21 @@
+{
+  "name": "thenux-gdrive-api",
+  "version": "1.0.0",
+  "description": "THENUX Google Drive public file/folder download API for Netlify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "google-drive",
+    "download-api",
+    "netlify",
+    "thenux"
+  ],
+  "author": "THENUX",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
